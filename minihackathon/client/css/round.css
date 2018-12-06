@@ -1,0 +1,23 @@
+tr td, tr th{
+  vertical-align: middle !important;
+}
+
+.bg-pink{
+  background: #bf1363;
+}
+
+.white-text{
+  color: #fff;
+}
+
+input[type="number"]{
+  border-radius: 5px;
+  border: 1px solid #eee;
+  outline: none;
+  padding: 5px 7px;
+}
+
+.btn-pink{
+  color: #fff;
+  background: #bf1363;
+}
